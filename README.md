@@ -1,16 +1,16 @@
 # goit-nodejs-hw-01
 ## Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 команда node index.js --action="list"
-![list](https://monosnap.com/file/l5iOExmHUoLBO97TI6EDbKAoERhvD9)
+![list](assets/list-action.png?raw=true)
 ## Oтримуємо контакт по id
 команда node index.js --action="get" --id=5
-![get](https://github.com/NataliaLyfar/goit-nodejs-hw-01/assets/getById-action.png?raw=true)
+![get](assets/getById-action.png?raw=true)
 ## Додаємо контакт
 команда node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
-![add](https://monosnap.com/file/c8qKGLN4uX8kANFxkJs8gV45QVZBWI)
+![add](assets/add-action.png?raw=true)
 ## Видаляємо контакт
 команда node index.js --action="remove" --id=3
-![remove](https://github.com/NataliaLyfar/goit-nodejs-hw-01/assets/remove-action.png)
+![remove](assets/remove-action.png?raw=true)
 ## Редагуємо контакт
 команда node index.js --action updateById --id='9fXixWU0rw90MMECYox9D' --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
-![update](https://github.com/NataliaLyfar/goit-nodejs-hw-01/assets/updateById-action.png)
+![update](assets/updateById-action.png?raw=true)
