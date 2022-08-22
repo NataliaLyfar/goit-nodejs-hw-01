@@ -4,7 +4,7 @@
 (https://raw.githubusercontent.com/NataliaLyfar/goit-nodejs-hw-01/assets/list-action.png)
 ## Oтримуємо контакт по id
 команда node index.js --action="get" --id=5
-(https://github.com/NataliaLyfar/goit-nodejs-hw-01/assets/getById-action.png)
+(https://github.com/NataliaLyfar/goit-nodejs-hw-01/assets/getById-action.png?raw=true)
 ## Додаємо контакт
 команда node index.js --action="add" --name="Mango" --email="mango@gmail.com" --phone="322-22-22"
 (https://github.com/NataliaLyfar/goit-nodejs-hw-01/assets/add-action.png)
