@@ -60,7 +60,7 @@ const updateContactById = async (id, name, email, phone) => {
     updateContactById(contacts);
     return contacts[index];
   } catch (error) {
-    console.log(error.message);
+    console.log(error);
   };
 };
 
